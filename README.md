@@ -12,13 +12,13 @@ Inserisci le immagini nella cartella `photos/` usando questi nomi esatti:
 - `cocktails.jpg` — cocktail e aperitivo
 - `menu-feature.jpg` — immagine della sezione menu
 
-Se manca una foto, il sito mostra uno sfondo neutro. Per usare immagini `.webp` o `.png`, aggiorna i percorsi in `index.html`.
+Nella cartella ci sono già immagini dimostrative con questi nomi: basta sostituirle con le tue foto (stesso nome). Se manca una foto, il sito mostra uno sfondo neutro. Per un buon effetto parallasse usa foto un po' più alte del riquadro (es. hero 2400×1500, le altre 1200×1500). Per usare immagini `.webp` o `.png`, aggiorna i percorsi in `index.html`.
 
 ## Controllo del menu
 Il testo del menu è stato recuperato dall'esportazione Canva fornita. Prima di pubblicare o usare la pagina per un QR code rivolto ai clienti, verifica nomi, impaginazione, prezzi, disponibilità e allergeni con il locale.
 
 ## Animazioni
-Sono stati adattati effetti di comparsa progressiva, movimento leggero, ingrandimento al passaggio e parallasse del puntatore. Le immagini del file originale non sono state riutilizzate.
+Sono stati adattati effetti di comparsa progressiva, movimento leggero, ingrandimento al passaggio e parallasse allo scorrimento (sfondo, testi, timbro e foto si muovono a velocità diverse; disattivata se il dispositivo richiede meno movimento). Le immagini del file originale non sono state riutilizzate.
 
 ## Anteprima locale
 Apri `index.html` nel browser. Per consegnare una versione pubblicabile occorre concordare la consegna/licenza e sostituire o rimuovere le marcature dimostrative solo nell'ambito di tale accordo.
